@@ -19,8 +19,11 @@ pip3 install -r requirements.txt --break-system
 
 ## Usage
 1. Fast Horizontal Recon (Default)
+
 ```python3 crtdigger.py "Organization Name"```
-2. Vertical Recon with Live Probing (20 Threads)
+3. Vertical Recon with Live Probing (20 Threads)
+
 ```python3 crtdigger.py "Organization Name" -V -p -t 20```
-3. Bulk Scanning from File
+4. Bulk Scanning from File
+
 ```python3 crtdigger.py orgs_list.txt -H -o results.txt```
