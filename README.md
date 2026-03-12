@@ -5,7 +5,6 @@
 ╚██████╗██║  ██║   ██║       ██████╔╝██║╚██████╔╝╚██████╔╝███████╗██║  ██║
  ╚═════╝╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
                                 Developed by: rv_u
-
 # crt digger 
 **A fast, multi-threaded OSINT tool for Horizontal & Vertical Recon via crt.sh.**
 
