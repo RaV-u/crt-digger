@@ -31,13 +31,14 @@ python3 crtdigger.py "Organization Name"
 ```
 <img width="1688" height="1281" alt="1" src="https://github.com/user-attachments/assets/ea58c558-3255-4cb2-8b2b-8f60f2532e6f" />
 
-3. Vertical Recon with Live Probing (20 Threads)
+-----------------------------------------------
+2. Vertical Recon with Live Probing (20 Threads)
 ```
 python3 crtdigger.py "Organization Name" -V -p -t 20
 ```
 <img width="2234" height="1426" alt="2" src="https://github.com/user-attachments/assets/0dd10e2e-b2c7-413c-9022-6a99f3739f35" />
 
-4. Bulk Scanning from File
+3. Bulk Scanning from File
 ```
 python3 crtdigger.py orgs_list.txt -H -o results.txt
 ```
