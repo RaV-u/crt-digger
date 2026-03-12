@@ -12,6 +12,6 @@ Developed by: **rv_u**
 
 ## 🚀 Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/crt-digger.git](https://github.com/YOUR_USERNAME/crt-digger.git)
+git clone https://github.com/RaV-u/crt-digger.git
 cd crt-digger
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt --break-system
