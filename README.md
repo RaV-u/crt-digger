@@ -45,5 +45,4 @@ python3 crtdigger.py orgs_list.txt -H -o results.txt
 ```
 
 --> By: Ramez Medhat
-
 ------> Happy Hacking ;)
