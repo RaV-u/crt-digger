@@ -38,7 +38,11 @@ python3 crtdigger.py "Organization Name" -V -p -t 20
 ```
 <img width="2234" height="1426" alt="2" src="https://github.com/user-attachments/assets/0dd10e2e-b2c7-413c-9022-6a99f3739f35" />
 
+-----------------------------------------------
 3. Bulk Scanning from File
 ```
 python3 crtdigger.py orgs_list.txt -H -o results.txt
 ```
+
+By: rv_u
+    => Happy Hacking ;)
