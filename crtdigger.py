@@ -151,4 +151,4 @@ def main():
     print(Fore.WHITE + "Happy Hacking " + Fore.RED + ";)")
 
 if __name__ == "__main__":
-    main(
+    main()
