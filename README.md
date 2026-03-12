@@ -44,5 +44,6 @@ python3 crtdigger.py "Organization Name" -V -p -t 20
 python3 crtdigger.py orgs_list.txt -H -o results.txt
 ```
 
---> By: rv_u
+--> By: Ramez Medhat
+
 ------> Happy Hacking ;)
